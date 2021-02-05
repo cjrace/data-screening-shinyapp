@@ -16,6 +16,7 @@ library(testthat)
 library(shinytest)
 library(styler)
 library(shinyFeedback)
+library(RSelenium)
 
 # activeTestsInFile ---------------------------------------------------------------------------------
 # Extracting the active tests that are run against files
